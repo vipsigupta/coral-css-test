@@ -1,4 +1,9 @@
 #coral {
   --font-family-primary: "Verdana";
   --round-corners: 10px;
+  --palette-background-body: #000000;
+  --palette-background-popover: #000000;
+  --palette-background-tooltip: #000000;
+  --palette-background-input: #000000;
+  --palette-background-input-disabled: #000000;
 }
